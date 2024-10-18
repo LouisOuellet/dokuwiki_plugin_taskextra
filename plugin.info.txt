@@ -1,0 +1,7 @@
+base   taskextra
+author Louis Ouellet
+email  louis_ouellet@hotmail.com
+date   2024-10-18
+name   Task Extra plugin
+desc   Add a additionnal functionnalities to task
+url    https://www.dokuwiki.org/plugin:taskextra
